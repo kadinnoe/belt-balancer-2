@@ -56,7 +56,7 @@ if mods["space-age"] then
             ingredients = {
                 { type="item", name="iron-gear-wheel", amount=20 },
                 { type="item", name="processing-unit", amount=15 },
-                { type="item", name="express-transport-belt", amount=5 },
+                { type="item", name="turbo-transport-belt", amount=5 },
             },
             results = {
                 { type="item", name="balancer-part", amount=4 }
